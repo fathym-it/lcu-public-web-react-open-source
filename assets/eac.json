@@ -2,7 +2,7 @@
   "Applications": {
     "$1": {
       "Application": {
-        "Description": "A basic starting point for sites built with React.'",
+        "Description": "A basic starting point for sites built with React.",
         "Name": "React Quickstart Project - Open Source"
       },
       "LookupConfig": {
