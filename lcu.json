@@ -2,11 +2,20 @@
   "Package": {
     "Name": "React Quickstart Project - Open Source",
     "Description": "A basic template to quickly deploy a React app to Fathym.",
-    "Button": "Launch",
-    "Image": "https://www.fathym.com/assets/images/logo.png",
-    "PreviewImage": "https://www.fathym.com/assets/images/logo.png",
-    "SuccessType": "Project"
+    "Image": "https://www.fathym.com/img/react.png",
+    "PreviewImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
   },
-  "EaC": "./assets/eac.json",
-  "Parameters": "./assets/parameters.json"
+  "Configurations": {
+    "Full": {
+      "Name": "React Quickstart - Open Source",
+      "Description": "React Quickstart - Open Source",
+      "Phases": [
+        {
+          "Name": "Setup React",
+          "Order": 1,
+          "Asset": "react"
+        }
+      ]
+    }
+  }
 }
