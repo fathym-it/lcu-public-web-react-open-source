@@ -3,7 +3,13 @@
     "Name": "React Quickstart Project - Open Source",
     "Description": "A basic template to quickly deploy a React app to Fathym.",
     "Image": "https://www.fathym.com/img/react.png",
-    "PreviewImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+    "PreviewImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+    "Intents":[
+      "React",
+      "Getting started",
+      "Website",
+      "Application"
+    ]
   },
   "Configurations": {
     "Full": {
