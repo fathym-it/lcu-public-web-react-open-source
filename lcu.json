@@ -1,7 +1,7 @@
 {
   "Package": {
-    "Name": "React Quickstart Project - Open Source",
-    "Description": "A basic template to quickly deploy a React app to Fathym.",
+    "Name": "React Starter - NPM Launch",
+    "Description": "A React starter app deployed to Fathym via an NPM package.",
     "Button": "Launch",
     "Image": "https://www.fathym.com/assets/images/logo.png",
     "PreviewImage": "https://www.fathym.com/assets/images/logo.png",
