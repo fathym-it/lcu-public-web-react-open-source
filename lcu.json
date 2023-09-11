@@ -1,23 +1,24 @@
 {
   "Package": {
-    "Name": "React Quickstart Project - Open Source",
-    "Description": "A basic template to quickly deploy a React app to Fathym.",
+    "Name": "React Starter - NPM Launch",
+    "Description": "A React starter app deployed to Fathym via an NPM package.",
     "Image": "https://www.fathym.com/img/react.png",
     "PreviewImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
     "Intents":[
       "React",
       "Getting started",
       "Website",
-      "Application"
+      "Application",
+      "NPM"
     ]
   },
   "Configurations": {
     "Full": {
-      "Name": "React Quickstart - Open Source",
-      "Description": "React Quickstart - Open Source",
+      "Name": "React Starter - NPM Launch",
+      "Description": "A React starter app deployed to Fathym via an NPM package.",
       "Phases": [
         {
-          "Name": "Setup React",
+          "Name": "Setting Up React Starter - NPM Launch",
           "Order": 1,
           "Asset": "react"
         }

@@ -26,6 +26,10 @@
   },
   "Projects": {
     "{{PROJECT_LOOKUP}}": {
+      "Details": {
+        "Name": "{{#if (lookup EaC.Projects PROJECT_LOOKUP)}}{{#if Details.Name}}{{Details.Name}}{{/if}}{{else}}React Starter - NPM Launch{{/if}}",
+        "Description": "{{#if (lookup EaC.Projects PROJECT_LOOKUP)}}{{#if Details.Description}}{{Details.Description}}{{/if}}{{else}}A React starter app deployed to Fathym via an NPM package.{{/if}}"
+      },
       "ApplicationLookups": [
         "{{$1}}-public-web-react-open-source"
       ]
